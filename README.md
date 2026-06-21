@@ -1,5 +1,5 @@
 # Candy ECE Crush Saga
-Candy ECE Crush Saga est un jeu de puzzle développé en langage C, inspiré du célèbre Candy Crush. Le joueur doit aligner des bonbons identiques afin de marquer des points et progresser à travers différents niveaux de difficulté. Le projet a été réalisé dans le cadre de notre formation en informatique à l'ECE.
+
 
 ## Description
 
